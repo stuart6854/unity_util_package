@@ -1,0 +1,14 @@
+{
+    "name": "com.stuartmillman.utility",
+    "version": "1.0.0",
+    "displayName": "Utilities",
+    "description": "Unity Utilities",
+    "unity": "2019.1",
+    "dependencies": {},
+    "keywords": [],
+    "author": {
+        "name": "Stuart Millman",
+        "email": "",
+        "url": "https://github.com/stuart6854?tab=repositories"
+    }
+}
